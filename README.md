@@ -1,6 +1,6 @@
 # End-to-End Sentiment Analysis of IMDb Movie Reviews
 
-The goal of this project is to build a simple web app to predict the sentiment of movie reviews in real-time. The web page will send new reviews off to a deployed Recurrent Neural Network model using [Amazon SageMaker](https://aws.amazon.com/sagemaker/) to predict the sentiment of entered reviews. 
+The goal of this project is to build a simple web application to predict the sentiment of movie reviews in real-time. The web page will send new reviews off to a deployed Recurrent Neural Network model using [Amazon SageMaker](https://aws.amazon.com/sagemaker/) to predict the sentiment of entered reviews. 
 
 # Install
 
