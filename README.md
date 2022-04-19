@@ -4,7 +4,6 @@ The goal of this project is to build a simple web application to predict the sen
 
 <img src="website/website.png">
 
-
 # Install
 
 The project requires Python 3.6 and the following Python libraries installed   
