@@ -4,7 +4,7 @@ The goal of this project is to build a simple web application to predict the sen
 
 <img src="website/website.png">
 
-# Install
+## Install
 
 The project requires Python 3.6 and the following Python libraries installed   
   - [numpy](https://numpy.org/)
@@ -13,15 +13,15 @@ The project requires Python 3.6 and the following Python libraries installed
 
 The latest version of [PyTorch](https://pytorch.org/) library also needs to be installed to implement the Neural Network model.
 
-# Data
+## Data
 
 The dataset used for the task of binary sentiment classification is the [IMDb dataset](http://ai.stanford.edu/~amaas/data/sentiment/). The corpus consists of 25,000 highly polar movie reviews for training and 25,000 for testing. 
 
-# Code
+## Code
 
 The notebook and Python files are provided in the project directory to get started with the project. 
 
-# Run
+## Run
 
 To open the .ipynb files in your browser and look at the output of the completed cells, use the following command in your terminal after changing the working directory to the project directory `deploy-sentiment-analysis-model`:
 ```
