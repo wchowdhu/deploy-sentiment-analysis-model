@@ -2,6 +2,9 @@
 
 The goal of this project is to build a simple web application to predict the sentiment of movie reviews in real-time. The web page will send new reviews off to a deployed Recurrent Neural Network model using [Amazon SageMaker](https://aws.amazon.com/sagemaker/) to predict the sentiment of entered reviews. 
 
+<img src="website/website.png">
+
+
 # Install
 
 The project requires Python 3.6 and the following Python libraries installed   
@@ -30,8 +33,6 @@ To run and execute all the cells from scratch, you need to create a Jupyter note
 
 To deploy the model and make the web app interact with the deployed model, you need to implement SageMaker's additional functionalities like Amazon Lambda and API Gateway. The structure for the web app is provided in the diagram `Web App Diagram.svg`.
 
-# Website Screenshot
-<img src="website/website.png">
 
 
 
